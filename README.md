@@ -20,4 +20,4 @@ This project was developed as part of my Higher Certificate in IT. It simulates 
 
 This is part 1 and I will be including a part 2 which will make reference to the data and work done here in due time.
 
-‼️ALL SAMPLE FOR CUSTOMER TABLE DATA WAS GENERATED WITH THE ASSISTANCE OF AI‼️
+‼️ALL SAMPLE DATA FOR CUSTOMER TABLE WAS GENERATED WITH THE ASSISTANCE OF AI‼️
